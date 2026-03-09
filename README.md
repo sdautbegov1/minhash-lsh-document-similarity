@@ -80,6 +80,3 @@ The results show that LSH significantly reduces the number of comparisons by ret
 
 This repository was created for academic and educational purposes.
 
-
-Ako želiš, mogu ti odmah poslati i kraću verziju README-a, da bude baš minimalistička.
-```
