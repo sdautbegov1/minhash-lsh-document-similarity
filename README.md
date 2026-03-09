@@ -8,10 +8,8 @@ The project focuses on approximating Jaccard similarity using MinHash signatures
 
 ```text
 minhash-lsh-document-similarity/
-├── notebook/
-│   └── final_minhash_lsh.ipynb
-├── docs/
-│   └── final_report.pdf
+└── final_minhash_lsh.ipynb
+└── final_report.pdf
 └── README.md
 ````
 
